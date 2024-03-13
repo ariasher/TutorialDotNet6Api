@@ -65,19 +65,33 @@ public class BreakfastsController : ControllerBase
             breakfast.Savory,
             breakfast.Sweet
         );
-        
+
         return Ok(response);
     }
 
     [HttpPut("{id:guid}")]
     public IActionResult UpsertBreakfast(Guid id, UpsertBreakfstRequest request)
     {
-        return Ok(request);
+        Breakfast breakfast = new() {
+            Id = id,
+            Name = request.Name,
+            Description = request.Description,
+            StartDateTime = request.StartDateTime,
+            EndDateTime = request.EndDateTime,
+            LastModifiedDateTime = DateTime.UtcNow,
+            Savory = request.Savory,
+            Sweet = request.Sweet
+        };
+
+        _breakfastService.UpsertBreakfast(breakfast);
+
+        return NoContent();
     }
 
     [HttpDelete("{id:guid}")]
     public IActionResult DeleteBreakfast(Guid id)
     {
-        return Ok(id);
+        _breakfastService.DeleteBreakfast(id);
+        return NoContent();
     }
 }
