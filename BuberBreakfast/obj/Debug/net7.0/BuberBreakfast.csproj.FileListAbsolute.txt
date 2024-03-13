@@ -5,17 +5,11 @@ E:\Projects\Tutorials\.Net Core API\TutorialDotNet6Api\BuberBreakfast\bin\Debug\
 E:\Projects\Tutorials\.Net Core API\TutorialDotNet6Api\BuberBreakfast\bin\Debug\net7.0\BuberBreakfast.runtimeconfig.json
 E:\Projects\Tutorials\.Net Core API\TutorialDotNet6Api\BuberBreakfast\bin\Debug\net7.0\BuberBreakfast.dll
 E:\Projects\Tutorials\.Net Core API\TutorialDotNet6Api\BuberBreakfast\bin\Debug\net7.0\BuberBreakfast.pdb
-E:\Projects\Tutorials\.Net Core API\TutorialDotNet6Api\BuberBreakfast\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-E:\Projects\Tutorials\.Net Core API\TutorialDotNet6Api\BuberBreakfast\bin\Debug\net7.0\Microsoft.OpenApi.dll
-E:\Projects\Tutorials\.Net Core API\TutorialDotNet6Api\BuberBreakfast\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-E:\Projects\Tutorials\.Net Core API\TutorialDotNet6Api\BuberBreakfast\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-E:\Projects\Tutorials\.Net Core API\TutorialDotNet6Api\BuberBreakfast\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 E:\Projects\Tutorials\.Net Core API\TutorialDotNet6Api\BuberBreakfast\obj\Debug\net7.0\BuberBreakfast.csproj.AssemblyReference.cache
 E:\Projects\Tutorials\.Net Core API\TutorialDotNet6Api\BuberBreakfast\obj\Debug\net7.0\BuberBreakfast.GeneratedMSBuildEditorConfig.editorconfig
 E:\Projects\Tutorials\.Net Core API\TutorialDotNet6Api\BuberBreakfast\obj\Debug\net7.0\BuberBreakfast.AssemblyInfoInputs.cache
 E:\Projects\Tutorials\.Net Core API\TutorialDotNet6Api\BuberBreakfast\obj\Debug\net7.0\BuberBreakfast.AssemblyInfo.cs
 E:\Projects\Tutorials\.Net Core API\TutorialDotNet6Api\BuberBreakfast\obj\Debug\net7.0\BuberBreakfast.csproj.CoreCompileInputs.cache
-E:\Projects\Tutorials\.Net Core API\TutorialDotNet6Api\BuberBreakfast\obj\Debug\net7.0\BuberBreakfast.MvcApplicationPartsAssemblyInfo.cs
 E:\Projects\Tutorials\.Net Core API\TutorialDotNet6Api\BuberBreakfast\obj\Debug\net7.0\BuberBreakfast.MvcApplicationPartsAssemblyInfo.cache
 E:\Projects\Tutorials\.Net Core API\TutorialDotNet6Api\BuberBreakfast\obj\Debug\net7.0\staticwebassets\msbuild.BuberBreakfast.Microsoft.AspNetCore.StaticWebAssets.props
 E:\Projects\Tutorials\.Net Core API\TutorialDotNet6Api\BuberBreakfast\obj\Debug\net7.0\staticwebassets\msbuild.build.BuberBreakfast.props
@@ -31,3 +25,5 @@ E:\Projects\Tutorials\.Net Core API\TutorialDotNet6Api\BuberBreakfast\obj\Debug\
 E:\Projects\Tutorials\.Net Core API\TutorialDotNet6Api\BuberBreakfast\obj\Debug\net7.0\BuberBreakfast.pdb
 E:\Projects\Tutorials\.Net Core API\TutorialDotNet6Api\BuberBreakfast\obj\Debug\net7.0\BuberBreakfast.genruntimeconfig.cache
 E:\Projects\Tutorials\.Net Core API\TutorialDotNet6Api\BuberBreakfast\obj\Debug\net7.0\ref\BuberBreakfast.dll
+E:\Projects\Tutorials\.Net Core API\TutorialDotNet6Api\BuberBreakfast\bin\Debug\net7.0\BuberBreakfast.Contracts.dll
+E:\Projects\Tutorials\.Net Core API\TutorialDotNet6Api\BuberBreakfast\bin\Debug\net7.0\BuberBreakfast.Contracts.pdb
